@@ -49,5 +49,8 @@ time.sleep(5)
 # ascertain that the testcase was successfully executed
 print("Login testcase executed successfully")
 
+# sleep for 5 seconds
+time.sleep(5)
+
 # close the browser window
 driver.quit()
